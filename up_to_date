@@ -4,3 +4,6 @@ git commit
 git branch
 git checkout
 git push
+git fetch 
+git pull
+git log
